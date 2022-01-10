@@ -1,5 +1,8 @@
 package medium;
 
+/*
+* TODO: NOT SOLVED
+*  */
 public class _1690_Stone_Game_VII {
     public static int stoneGameVII(int[] stones) {
         int bobScore = 0;
